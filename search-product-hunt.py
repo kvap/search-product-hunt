@@ -4,7 +4,7 @@
 # want with this stuff. If we meet some day, and you think this stuff is worth
 # it, you can buy us a bottle of cider in return.
 #       Ekaterina Klink <ekaterina.klink@gmail.com>
-# 	Constantin S. Pan <kvapen@gmail.com
+# 	Constantin S. Pan <kvapen@gmail.com>
 
 # This program performs a bulk search of product hunt posts by name.
 # It reads the inputs from 'queries.csv' and saves the resulting query-url
